@@ -1,0 +1,6 @@
+Sandbox Device Gather Facts output:
+Hostname: cat8000v
+Model: C8000V
+IOS type: IOS-XE
+OS Version: 17.12.02
+Serial: 9N1LB11DXYC

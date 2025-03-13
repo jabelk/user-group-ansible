@@ -1,0 +1,4 @@
+snmp-server community cat8k_read_only ro
+snmp-server community cat8k_read_write rw
+snmp-server contact cat8k_lab_admin
+snmp-server location cat8k_rno
