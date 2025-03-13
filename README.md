@@ -5,9 +5,7 @@ Devices are from the IOS XE on Cat8kv reservable sandbox on [Cisco DevNet](https
 
 ## Abstract
 
-This session is for both Instructors and Students that are part of Cisco Networking Academy.
-
-Even though Ansible is not new on the CCNA Exam, automation can be intimidating. For Ansible, oftentimes examples focus on using it within a cloud or compute environment, which then requires effort to translate into a networking context. Taking Cisco networking examples, we will break down and explain through live demos:
+For Ansible, oftentimes examples focus on using it within a cloud or compute environment, which then requires effort to translate into a networking context. Taking Cisco networking examples, we will break down and explain through live demos:
 
 - YAML and Playbook structure
 - Building an inventory
